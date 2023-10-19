@@ -9,9 +9,7 @@ Personal Endnote Notes
 
 **如果这个笔记对你有所帮助，请给它一个Star；如果您发现了更为好用的使用方法，欢迎发pull requests！**
 
-
-
->
-> 2023.10.8: Gradio, Pydantic依赖调整，已修改 `requirements.txt`。请及时**更新代码**，安装依赖时，请严格选择`requirements.txt`中**指定的版本**。
->
-> `pip install -r requirements.txt`
+## 目录
+> [导入文献](notes/page1.md)
+> [管理文献](notes/page2.md)
+> [引用文献](notes/page3.md)
