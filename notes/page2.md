@@ -7,7 +7,7 @@ EndNote最多支持2级文件目录
   - 单击右键 create group set
 - 创建二级文件夹
   - 单击右键以及文件夹 create group
-  ![管理文献-分组](.../../../../asset/EndNote使用教程/管理文献-分组.png)
+  ![管理文献-分组](../asset/管理文献-分组.png)
 
 ## 文献去重
 - All References
