@@ -81,17 +81,17 @@ File **→** New  **→**  选择存储位置进行保存
 ### [万方数据](https://www.cnki.net/)与知网类似
 
 ### 可能出现的问题与解决方案
-!> 中文文献导入之后乱码
+> 中文文献导入之后乱码
 
-?> 此问题原因为txt文件编码问题，在Text Traslation出选择UTF-8即可
+> 此问题原因为txt文件编码问题，在Text Traslation出选择UTF-8即可
 
-!> EndNote X9会存在论文标题和期刊名称混合在一起的问题
+> EndNote X9会存在论文标题和期刊名称混合在一起的问题
 
-?> 解决办法：Edit→import filters→open filter manager→找到EndNote Import→Edit→选择左侧的Templates→上方的Reference Types选择Journal Article→将 **%B Journal** 改成 **%J Journal**改成 保存
+> 解决办法：Edit→import filters→open filter manager→找到EndNote Import→Edit→选择左侧的Templates→上方的Reference Types选择Journal Article→将 **%B Journal** 改成 **%J Journal**改成 保存
 
-!> 文献信息不全 ( 中文需要自己添加 )
+> 文献信息不全 ( 中文需要自己添加 )
 
-?> 解决办法：批量选择文献→鼠标右键Find Reference Updates→左侧为更新信息，右侧为原始文献信息→更新
+> 解决办法：批量选择文献→鼠标右键Find Reference Updates→左侧为更新信息，右侧为原始文献信息→更新
 
 ## PDF导入
 PDF的导入原理为识别文献doi号，故中文文献不建议PDF直接导入
