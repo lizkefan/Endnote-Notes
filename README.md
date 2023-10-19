@@ -10,6 +10,7 @@ Personal Endnote Notes
 **如果这个笔记对你有所帮助，请给它一个Star；如果您发现了更为好用的使用方法，欢迎发pull requests！**
 
 ## 目录
-> [导入文献](notes/page1.md)
-> [管理文献](notes/page2.md)
-> [引用文献](notes/page3.md)
+
+[导入文献](notes/page1.md)
+[管理文献](notes/page2.md)
+[引用文献](notes/page3.md)
