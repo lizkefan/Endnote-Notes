@@ -16,3 +16,8 @@ Personal Endnote Notes
 [管理文献](notes/page2.md)
 
 [引用文献](notes/page3.md)
+
+
+> **Note**
+> 
+> **Endnote-Notes by KeFan & Haowy of UCAS**
