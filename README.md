@@ -18,4 +18,4 @@ Personal Endnote Notes
 [引用文献](notes/page3.md)
 
 ***
-**<div align=center> Endnote-Notes by KeFan & Haowy of UCAS </div>**
+**<div align=center> Endnote-Notes by KeFan of UCAS </div>**
