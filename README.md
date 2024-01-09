@@ -7,7 +7,7 @@ Personal Endnote Notes
 
 # <div align=center> Endnote-Notes </div>
 
-**如果这个笔记对你有所帮助，请给它一个Star；如果您发现了更为好用的使用方法，欢迎发pull requests！**
+**如果这个笔记对你有所帮助，请给它一个Star；如果您发现了更为好用的使用方法，欢迎更新**
 
 ## 目录
 
